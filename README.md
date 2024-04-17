@@ -20,6 +20,6 @@ Para ejecutar los cuadernos Jupyter y reproducir el análisis, se requiere lo si
 
 - Python 3
 - Jupyter Notebook
-- Bibliotecas de Python: pandas, matplotlib, seaborn, etc.
+- Bibliotecas de Python: numpy, pandas, matplotlib, seaborn
 
 ![Representación del Género en los Videojuegos](./data/Pacman-BANNER.jpg)
